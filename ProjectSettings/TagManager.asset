@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OptionsCanvas
+  - GameManager
+  - MainMenuCanvas
+  - Smoke
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Npcs
+    uniqueID: 2593854825
+    locked: 0
+  - name: PickUp
+    uniqueID: 2390339815
+    locked: 0
+  - name: Player
+    uniqueID: 1675549245
+    locked: 0
+  - name: Smoke
+    uniqueID: 1301331309
+    locked: 0
